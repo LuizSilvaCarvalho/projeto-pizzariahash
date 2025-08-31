@@ -1,21 +1,23 @@
-##🍕 Pizzaria Hash
+## 🍕 Pizzaria Hash
 
 Este é um projeto desenvolvido durante a aula de JavaScript, com o objetivo de praticar a criação de páginas web utilizando HTML5 e CSS3.
 A proposta foi criar uma página de apresentação para a Pizzaria Hash, com foco em um design simples, responsivo e funcional.
 
-###🔗 Acesse o projeto
+### 🔗 Acesse o projeto
+
 [Clique para ver o repositório](https://github.com/LuizSilvaCarvalho/projeto-pizzariahash)
 
-###Clique aqui para ver o site
+### Clique aqui para ver o site
+
 Venha ver como ficou o projeto acessando [Clique para ver o site](https://luizsilvacarvalho.github.io/projeto-pizzariahash/)
 
-##🎨 Tecnologias utilizadas
+## 🎨 Tecnologias utilizadas
 
 HTML5 para a estrutura da página
 
 CSS3 para o estilo e responsividade
 
-##✨ Funcionalidades
+## ✨ Funcionalidades
 
 Página inicial com destaque para a marca da pizzaria
 
@@ -25,6 +27,6 @@ Layout responsivo para diferentes dispositivos
 
 Rodapé com informações de contato
 
-##📌 Objetivo do projeto
+## 📌 Objetivo do projeto
 
 Praticar a criação de páginas estáticas com HTML e CSS, aplicando conceitos de semântica, responsividade e estilização.
